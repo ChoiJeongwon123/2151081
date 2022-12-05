@@ -1,0 +1,29 @@
+.main{position: absolute;
+width: 1920px;
+height: 1200px;
+left: 0px;
+top: 0px;
+background-image: url(img/son.png);
+}
+.nav{
+    position: absolute;
+    width: 1920px;
+    height: 107px;
+    left: 0px;
+    top: 0px;
+    background-image: url(img/nav.png);
+}
+.giwon{
+    position : absolute;
+width: 1920px;
+height: 400px;
+bottom: 0;
+background-image: url(img/Rectangle\ 1.png);
+}
+h1{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
